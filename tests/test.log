@@ -1,0 +1,23 @@
+Add user authentication middleware
+Refactor API error handling
+Refactor API error handling
+Fix responsive layout on mobile
+Fix typos in contributing guide
+Update README with setup instructions
+Update changelog
+Fix CORS configuration
+Add e2e test for checkout flow
+Update database schema
+Update database schema
+Fix CORS configuration
+Update database schema
+Fix typo in error message
+Fix typo in error message
+Fix navigation z-index issue
+Fix flaky integration test
+Fix navigation z-index issue
+Add unit tests for auth module
+Add user authentication middleware
+Update README with setup instructions
+Add rate limiting
+Update README with setup instructions

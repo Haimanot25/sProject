@@ -1,0 +1,26 @@
+Add e2e test for checkout flow
+Optimize image loading
+Fix typo in error message
+Increase test coverage
+Fix responsive layout on mobile
+Update README with setup instructions
+Optimize image loading
+Fix typo in error message
+Fix CORS configuration
+Optimize image loading
+Fix navigation z-index issue
+Add dark mode toggle
+Optimize image loading
+Add API documentation
+Add user authentication middleware
+Add environment config template
+Fix navigation z-index issue
+Clean up unused imports
+Add user authentication middleware
+Update changelog
+Refactor API error handling
+Fix typo in error message
+Fix navigation z-index issue
+Update hero section styling
+Add dark mode toggle
+Fix responsive layout on mobile

@@ -24,3 +24,4 @@ Fix navigation z-index issue
 Update hero section styling
 Add dark mode toggle
 Fix responsive layout on mobile
+Fix CORS configuration

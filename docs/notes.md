@@ -25,3 +25,4 @@
 # Fix responsive layout on mobile
 # Add rate limiting
 # Update dependencies
+# Add rate limiting

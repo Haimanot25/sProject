@@ -26,3 +26,4 @@
 # Add rate limiting
 # Update dependencies
 # Add rate limiting
+# Add environment config template

@@ -27,3 +27,4 @@
 # Update dependencies
 # Add rate limiting
 # Add environment config template
+# Update hero section styling

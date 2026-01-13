@@ -29,3 +29,4 @@
 # Add environment config template
 # Update hero section styling
 # Update dependencies
+# Add API documentation
